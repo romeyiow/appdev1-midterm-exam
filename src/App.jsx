@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <!-- Intro -->
+      {/* Intro */}
       <div id="intro" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-01.jpg">
         <nav id="tm-nav" class="fixed w-full">
           <div class="tm-container mx-auto px-2 md:py-6 text-right">
@@ -40,7 +40,7 @@ function App() {
           </div>
         </div>
       </div>
-      <!-- Cafe Menu -->
+      {/* Cafe Menu */}
       <div id="menu" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-02.jpg">
         <div class="container mx-auto tm-container py-24 sm:py-48">
           <div class="text-center mb-16">
